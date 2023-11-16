@@ -1,1 +1,3 @@
 # FPP
+
+Fixed point pathfinding
